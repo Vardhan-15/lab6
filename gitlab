@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 welcome to GitLab
 merging contents from branch to main
+=======
+welcome to gitlab
+merging contents from feature branch
+>>>>>>> 4e52316f5052cc4ab08cd69b61efcb82e5f7294b
